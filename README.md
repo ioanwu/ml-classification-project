@@ -46,7 +46,7 @@ RequirementsTo run this project, you need Python installed along with the follow
 -openpyxl (Required by pandas to read .xlsx files)
 
 How to Run
--Ensure Dataset2Use_Assignment1.xlsx is placed in the same directory as the Python script.
--Run the script.
--The program will display the data visualizations and confusion matrices in sequence. Close each plot window to allow the execution to proceed to the next step.
--Upon completion, check the root directory for the generated balancedDataOutcomes.csv report.  
+1) Ensure Dataset2Use_Assignment1.xlsx is placed in the same directory as the Python script.
+2) Run the script.
+3) The program will display the data visualizations and confusion matrices in sequence. Close each plot window to allow the execution to proceed to the next step.
+4) Upon completion, check the root directory for the generated balancedDataOutcomes.csv report.  
